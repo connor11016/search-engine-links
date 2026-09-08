@@ -15,3 +15,5 @@
 - https://www.metacrawler.com
 - https://www.ask.com
 - https://www.mojeek.com
+# Other Things
+- https://novnc.com
